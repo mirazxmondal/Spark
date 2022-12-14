@@ -1,0 +1,40 @@
+/* Navbar */
+#sp-text {
+    font-weight: bolder;
+    font-size: 2rem;
+    color: red;
+}
+
+.sp-subtext {
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: green;
+}
+
+h3 {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+}
+
+button {
+    width: 10rem;
+}
+
+.fa-brands {
+    font-size: x-large;
+}
+
+/* About */
+.heading {
+    text-align: center;
+    font-weight: bold;
+}
+
+.text {
+    margin-top: 30px;
+    text-align: center;
+}
